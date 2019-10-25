@@ -1,2 +1,2 @@
 # Estudo-Python
-Códigos que exercícios de Python
+Exercícios resolvidos de Python
